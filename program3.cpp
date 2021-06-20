@@ -1,3 +1,6 @@
+/*Problem3:Write a C++ program to illustrate dynamic allocation and deallocation of memory using 
+new and delete. */
+
 #include <iostream>
 using namespace std;
 int main()
